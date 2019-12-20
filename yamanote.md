@@ -2,3 +2,4 @@
 * Yurakucho
 * SHIMBASHI
 * hamamatucho
+* Tamachi
