@@ -1,3 +1,3 @@
 * Tokyo
 * Yurakucho
-* Shimbashi
+* SHIMBASHI
