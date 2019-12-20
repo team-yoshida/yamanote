@@ -1,4 +1,4 @@
 * Tokyo
 * Yurakucho
-* Shimbashi
+* SHIMBASHI
 * hamamatucho
